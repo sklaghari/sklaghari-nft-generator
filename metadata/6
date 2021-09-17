@@ -1,0 +1,23 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE6.png",
+    "tokenId": 6,
+    "name": "ADD_PROJECT_NAME_HERE 6",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Whale",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Cap",
+            "value": "Yellow"
+        }
+    ]
+}

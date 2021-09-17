@@ -1,0 +1,23 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE36.png",
+    "tokenId": 36,
+    "name": "ADD_PROJECT_NAME_HERE 36",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Whale",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Cap",
+            "value": "Yellow"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+[
+    {
+        "Background": "Yellow",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Red",
+        "tokenId": 0
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Light_Blue",
+        "Eye": "Red",
+        "Cap": "Yellow",
+        "tokenId": 1
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Blue",
+        "Eye": "Yellow",
+        "Cap": "Red",
+        "tokenId": 2
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Light_Blue",
+        "Eye": "Red",
+        "Cap": "Red",
+        "tokenId": 3
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Green",
+        "Eye": "Red",
+        "Cap": "Yellow",
+        "tokenId": 4
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Brown",
+        "Eye": "Green",
+        "Cap": "Yellow",
+        "tokenId": 5
+    },
+    {
+        "Background": "Yellow",
+        "Whale": "Blue",
+        "Eye": "Red",
+        "Cap": "Yellow",
+        "tokenId": 6
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Green",
+        "Eye": "Green",
+        "Cap": "Yellow",
+        "tokenId": 7
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Blue",
+        "Eye": "Red",
+        "Cap": "Red",
+        "tokenId": 8
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Light_Blue",
+        "Eye": "Blue",
+        "Cap": "Red",
+        "tokenId": 9
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Blue",
+        "Eye": "Green",
+        "Cap": "Yellow",
+        "tokenId": 10
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Light_Blue",
+        "Eye": "Green",
+        "Cap": "Red",
+        "tokenId": 11
+    },
+    {
+        "Background": "Red",
+        "Whale": "Blue",
+        "Eye": "Green",
+        "Cap": "Yellow",
+        "tokenId": 12
+    },
+    {
+        "Background": "Purple",
+        "Whale": "Blue",
+        "Eye": "Blue",
+        "Cap": "Yellow",
+        "tokenId": 13
+    },
+    {
+        "Background": "Yellow",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 14
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Blue",
+        "Eye": "Red",
+        "Cap": "Yellow",
+        "tokenId": 15
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Blue",
+        "Eye": "Blue",
+        "Cap": "Yellow",
+        "tokenId": 16
+    },
+    {
+        "Background": "Purple",
+        "Whale": "Brown",
+        "Eye": "Green",
+        "Cap": "Red",
+        "tokenId": 17
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Red",
+        "tokenId": 18
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Red",
+        "tokenId": 19
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Green",
+        "Eye": "Green",
+        "Cap": "Red",
+        "tokenId": 20
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Light_Blue",
+        "Eye": "Blue",
+        "Cap": "Yellow",
+        "tokenId": 21
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Light_Blue",
+        "Eye": "Red",
+        "Cap": "Red",
+        "tokenId": 22
+    },
+    {
+        "Background": "Yellow",
+        "Whale": "Brown",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 23
+    },
+    {
+        "Background": "Purple",
+        "Whale": "Blue",
+        "Eye": "Red",
+        "Cap": "Red",
+        "tokenId": 24
+    },
+    {
+        "Background": "Purple",
+        "Whale": "Green",
+        "Eye": "Blue",
+        "Cap": "Red",
+        "tokenId": 25
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Blue",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 26
+    },
+    {
+        "Background": "Purple",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 27
+    },
+    {
+        "Background": "Blue",
+        "Whale": "Green",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 28
+    },
+    {
+        "Background": "Orange",
+        "Whale": "Light_Blue",
+        "Eye": "Yellow",
+        "Cap": "Yellow",
+        "tokenId": 29
+    }
+]
