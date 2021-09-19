@@ -2,6 +2,7 @@ from PIL import Image
 import random
 import json
 
+
 # Each image is made up a series of traits
 # The weightings for each trait drive the rarity and add up to 100%
 
@@ -9,10 +10,10 @@ background = ["Blue", "Orange", "Purple", "Red", "Yellow"]
 background_weights = [30, 40, 15, 5, 10]
 
 whale = ["Blue", "Brown", "Green", "Light_Blue"]
-whale_weights = [25, 25, 25, 25]
+whale_weights = [30, 40, 15, 15]
 
 eye = ["Blue", "Green", "Red", "Yellow"]
-eye_weights = [25, 25, 25, 25]
+eye_weights = [30, 40, 15, 15,]
 
 cap = ["Red", "Yellow"]
 cap_weights = [50,50]
@@ -47,7 +48,7 @@ cap_files = {
 }
 ## Generate Traits
 
-TOTAL_IMAGES = 30  # Number of random unique images we want to generate
+TOTAL_IMAGES = 150  # Number of random unique images we want to generate
 
 all_images = []
 
@@ -138,34 +139,3 @@ for item in all_images:
     rgb_im = com4.convert('RGB')
     file_name = str(item["tokenId"]) + ".png"
     rgb_im.save("./images/" + file_name)
-#### Generate Metadata for each Image
-
-f = open('./metadata/all-traits.json',)
-data = json.load(f)
-
-
-IMAGES_BASE_URI = "ADD_IMAGES_BASE_URI_HERE"
-PROJECT_NAME = "ADD_PROJECT_NAME_HERE"
-
-def getAttribute(key, value):
-    return {
-        "trait_type": key,
-        "value": value
-    }
-for i in data:
-    token_id = i['tokenId']
-    token = {
-        "image": IMAGES_BASE_URI + str(token_id) + '.png',
-        "tokenId": token_id,
-        "name": PROJECT_NAME + ' ' + str(token_id),
-        "attributes": []
-    }
-    token["attributes"].append(getAttribute("Background", i["Background"]))
-    token["attributes"].append(getAttribute("Whale", i["Whale"]))
-    token["attributes"].append(getAttribute("Eye", i["Eye"]))
-    token["attributes"].append(getAttribute("Cap", i["Cap"]))
-
-
-    with open('./metadata/' + str(token_id), 'w') as outfile:
-        json.dump(token, outfile, indent=4)
-f.close()

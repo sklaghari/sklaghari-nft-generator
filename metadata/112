@@ -1,0 +1,24 @@
+{
+    "tokenId": 112,
+    "name": "Weird Whale 112",
+    "description": "Weird Creature that enjoys long swims in the ocean.",
+    "image": "ipfs://QmY3u4APPwLemcvCHwuvwgM33nkWrYZJqi49iNHry7zrhz/112.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Whale",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Cap",
+            "value": "Yellow"
+        }
+    ]
+}

@@ -1,19 +1,20 @@
 {
-    "image": "ADD_IMAGES_BASE_URI_HERE38.png",
     "tokenId": 38,
-    "name": "ADD_PROJECT_NAME_HERE 38",
+    "name": "Weird Whale 38",
+    "description": "Weird Creature that enjoys long swims in the ocean.",
+    "image": "ipfs://QmY3u4APPwLemcvCHwuvwgM33nkWrYZJqi49iNHry7zrhz/38.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple"
-        },
-        {
-            "trait_type": "Whale",
             "value": "Blue"
         },
         {
-            "trait_type": "Eye",
+            "trait_type": "Whale",
             "value": "Green"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Blue"
         },
         {
             "trait_type": "Cap",

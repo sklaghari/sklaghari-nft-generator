@@ -1,7 +1,8 @@
 {
-    "image": "ADD_IMAGES_BASE_URI_HERE74.png",
     "tokenId": 74,
-    "name": "ADD_PROJECT_NAME_HERE 74",
+    "name": "Weird Whale 74",
+    "description": "Weird Creature that enjoys long swims in the ocean.",
+    "image": "ipfs://QmY3u4APPwLemcvCHwuvwgM33nkWrYZJqi49iNHry7zrhz/74.png",
     "attributes": [
         {
             "trait_type": "Background",
